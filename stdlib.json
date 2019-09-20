@@ -1,5 +1,5 @@
 {
-  "name": "kevinb/send-twilio-survey",
+  "name": "kevinb/twilio-survey",
   "timeout": 20000,
   "version": "0.0.0",
   "description": "",
