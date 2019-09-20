@@ -1,0 +1,7 @@
+{
+  "name": "kevinb/send-twilio-survey",
+  "author": "kevinb",
+  "dependencies": {
+    "lib": "latest"
+  }
+}

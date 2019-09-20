@@ -1,0 +1,14 @@
+{
+  "name": "kevinb/send-twilio-survey",
+  "timeout": 20000,
+  "version": "0.0.0",
+  "description": "",
+  "events": [
+    {
+      "twilio.sms.received": {
+        "filename": "functions/events/twilio/sms/received.js",
+        "subtype": null
+      }
+    }
+  ]
+}
