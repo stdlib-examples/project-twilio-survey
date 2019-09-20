@@ -44,4 +44,8 @@ So when you feel you have ample replies, change the question Status to **Finishe
 
 ## That's It!
 ---
+<<<<<<< HEAD
 You're all set! Be sure to stay tuned for our next article by following [our blog](https://stdlib.com/blog) or following us on Twitter [@StdLibHQ](https://www.twitter.com/StdLibHQ).
+=======
+You're all set! Be sure to stay tuned for our next article by following [our blog](https://stdlib.com/blog) or following us on Twitter [@StdLibHQ](https://www.twitter.com/StdLibHQ).
+>>>>>>> e4ac581734e82e9a0920629e724309c502dfb9f8
