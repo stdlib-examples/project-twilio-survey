@@ -1,5 +1,5 @@
 # Build an App to Send SMS Surveys with Twilio + Airtable on Standard Library
-[<img src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://deploy.stdlib.com/)
+[<img src="https://deploy.stdlib.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
 
 Today we will be using [Build on Standard Library](https://build.stdlib.com) to launch an app to send SMS surveys to your friends, using Twilio and Airtable. In just a few easy steps we will set up your Airtable and show you how to begin aggregating feedback from your group in one easy-to-read Base. For an indepth tutorial on how to Build this workflow from scratch, [click here](https://medium.com/@brimm_reaper/build-an-app-to-send-sms-surveys-with-twilio-airtable-on-standard-library-ef5be1cd4f0b). This is also a great resource should you encounter any hiccups along the way.
 
@@ -11,7 +11,7 @@ Before we are ready to deploy from Github, we will need to set up our Airtable B
 Yours won't have the polarizing question pre-populated, but feel free to add your first inquiry in the first column, as seen here. Your **wasSent** column should also be missing the green check mark. We will get to that shortly. Next click into the **Contacts** table, and add your phone number into the first column. Be sure to follow this format: **country code** + **area code** + **phone number**. Your final number should look like this: **14155679876**. You're not ready to click on the Deploy button and complete setting up your workflow on Standard Library.
 
 ## Deploying To Standard Library
-[<img src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://deploy.stdlib.com/)
+[<img src="https://deploy.stdlib.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
 
 From the project page, you should see the below about midway down the page:
 
